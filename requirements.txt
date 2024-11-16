@@ -1,0 +1,31 @@
+# streamlit
+# google-generativeai
+# python-dotenv
+# langchain
+# pyPDF2
+# chromadb
+# faiss-cpu
+# langchain_google_genai
+# groq
+# langchain-groq
+# langchain_community
+# pypdf
+# langchain_openai
+# pathlib
+# textwrap
+# flask
+
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain-google-genai
+groq
+langchain-groq
+langchain-community
+pypdf
+langchain-openai
+flask
