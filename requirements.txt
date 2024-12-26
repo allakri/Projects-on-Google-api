@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+streamlit-mic-recorder
+langchain
+langchain_google_genai
+langchain-community
+PyPDF2
+faiss-cpu
+pdf2image
+PyMuPDF
+youtube_transcript_api
+pathlib
