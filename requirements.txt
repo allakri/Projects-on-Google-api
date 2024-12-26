@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 google-generativeai
 python-dotenv
@@ -11,3 +12,36 @@ pdf2image
 PyMuPDF
 youtube_transcript_api
 pathlib
+=======
+# streamlit
+# google-generativeai
+# python-dotenv
+# langchain
+# pyPDF2
+# chromadb
+# faiss-cpu
+# langchain_google_genai
+# groq
+# langchain-groq
+# langchain_community
+# pypdf
+# langchain_openai
+# pathlib
+# textwrap
+# flask
+
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain-google-genai
+groq
+langchain-groq
+langchain-community
+pypdf
+langchain-openai
+flask
+>>>>>>> 023678f7cb86575bec1de6aff102f685ae44d0be
